@@ -1,1 +1,3 @@
- # JAVA
+ # JAVA PROJECT 1
+
+# HOW IT WORKS
