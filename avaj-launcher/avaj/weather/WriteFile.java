@@ -14,7 +14,7 @@ public class WriteFile {
 		if (writefile == null) {
 			try{
 				writefile = new WriteFile();
-				file = new File("sim.txt");
+				file = new File("simulation.txt");
 				fw = new FileWriter(file);
 				bw = new BufferedWriter(fw);
 			} catch (IOException ioe) {}
