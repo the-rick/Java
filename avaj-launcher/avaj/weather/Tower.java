@@ -6,6 +6,7 @@ import java.util.*;
 
 
 public class Tower {
+	int i = 0;
 	private List<Flyable> observers = new ArrayList<Flyable>();
 	private List<Flyable> landed = new ArrayList<Flyable>();
 
